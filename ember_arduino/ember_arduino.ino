@@ -2,7 +2,7 @@
 #include <EEPROM.h>
 #include <ember.h>                                 
 
-#define EMBER_VERSION 2
+#define EMBER_VERSION 1
 
 //set pid window size
 #define PID_WINDOW_SIZE 3000
