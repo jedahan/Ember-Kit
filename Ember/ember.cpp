@@ -5,7 +5,7 @@
  * This Code is licensed under a Creative Commons Attribution-ShareAlike 3.0 License.
  **********************************************************************************************/
 
-#include <WProgram.h>
+#include <Arduino.h>
 #include <ember.h>
 
 DoEvery::DoEvery(long _period) {
